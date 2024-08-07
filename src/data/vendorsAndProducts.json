@@ -1,0 +1,86 @@
+[
+  {
+    "name": "TechGadgets",
+    "commission": 0.12,
+    "subaccount": {
+      "id": 1139747,
+      "subaccount_code": "ACCT_ltjdavf1ctir9kk"
+    },
+    "products": [
+      {
+        "name": "Smartphone",
+        "price": 150000,
+        "id": "iqungw60b",
+        "image": "https://picsum.photos/seed/Smartphone/200/200"
+      },
+      {
+        "name": "Laptop",
+        "price": 350000,
+        "id": "spyaf0eog",
+        "image": "https://picsum.photos/seed/Laptop/200/200"
+      },
+      {
+        "name": "Wireless Earbuds",
+        "price": 25000,
+        "id": "9c2zo5e83",
+        "image": "https://picsum.photos/seed/Wireless Earbuds/200/200"
+      }
+    ]
+  },
+  {
+    "name": "FashionHub",
+    "commission": 0.12,
+    "subaccount": {
+      "id": 1139748,
+      "subaccount_code": "ACCT_4p49s732w98b5ab"
+    },
+    "products": [
+      {
+        "name": "T-shirt",
+        "price": 5000,
+        "id": "ez6ipqtjz",
+        "image": "https://picsum.photos/seed/T-shirt/200/200"
+      },
+      {
+        "name": "Jeans",
+        "price": 15000,
+        "id": "amx2lmfhh",
+        "image": "https://picsum.photos/seed/Jeans/200/200"
+      },
+      {
+        "name": "Sneakers",
+        "price": 20000,
+        "id": "ossyy9ekw",
+        "image": "https://picsum.photos/seed/Sneakers/200/200"
+      }
+    ]
+  },
+  {
+    "name": "HomeEssentials",
+    "commission": 0.12,
+    "subaccount": {
+      "id": 1139746,
+      "subaccount_code": "ACCT_05zost85zr0xj1n"
+    },
+    "products": [
+      {
+        "name": "Coffee Maker",
+        "price": 30000,
+        "id": "li20yyvg3",
+        "image": "https://picsum.photos/seed/Coffee Maker/200/200"
+      },
+      {
+        "name": "Blender",
+        "price": 15000,
+        "id": "mayi7gsm0",
+        "image": "https://picsum.photos/seed/Blender/200/200"
+      },
+      {
+        "name": "Toaster",
+        "price": 10000,
+        "id": "0cztecxqa",
+        "image": "https://picsum.photos/seed/Toaster/200/200"
+      }
+    ]
+  }
+]
