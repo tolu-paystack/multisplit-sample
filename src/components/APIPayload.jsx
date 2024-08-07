@@ -13,8 +13,8 @@ function APIPayload({
 }) {
   const generatePayload = () => {
     const payload = {
-      amount: totalAmount * 100, // Convert to kobo
       email: 'customer@example.com', // This would be dynamically set in a real scenario
+      amount: totalAmount * 100, // Convert to kobo
       split: {
         type: 'flat',
         bearer_type: splitOption,

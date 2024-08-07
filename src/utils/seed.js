@@ -2,7 +2,7 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const PAYSTACK_SECRET_KEY = 'sk_test_dda3c77f2032a2a643f6dd200384318755bfad51';
+const PAYSTACK_SECRET_KEY = 'YOUR_SECRET_KEY';
 const PAYSTACK_API_URL = 'https://api.paystack.co';
 
 const vendors = [
